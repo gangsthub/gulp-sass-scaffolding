@@ -1,0 +1,12 @@
+
+// sample
+
+$myVar: 'sample';
+
+$sample: (
+    'this is just a #{$myVar}'
+);
+
+@each $string in $sample {
+    @debug $string;
+}

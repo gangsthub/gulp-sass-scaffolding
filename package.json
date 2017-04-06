@@ -1,0 +1,41 @@
+{
+  "name": "gulp-sass-scaffolding",
+  "version": "1.0.0",
+  "description": "Brief approach to sass with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: sorry; no test specified\"",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangsthub/gulp-sass-scaffolding.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "gulpjs",
+    "node-sass",
+    "libsass",
+    "node",
+    "js"
+  ],
+  "author": "Paul Melero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gangsthub/gulp-sass-scaffolding/issues"
+  },
+  "homepage": "https://github.com/gangsthub/gulp-sass-scaffolding#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.2.2"
+  }
+}
