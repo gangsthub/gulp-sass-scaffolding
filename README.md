@@ -29,7 +29,7 @@ $ gulp
 
 ## Files
 
-You should delete the `_sample.scss` file. It's just an example. ¯\_(ツ)_/¯
+You should delete the `_sample.scss` file. It's just an example. ¯\\_(ツ)_/¯
 
 - - -
 
