@@ -10,7 +10,7 @@ const cp             = require('child_process');
 const runSequence    = require('run-sequence').use(gulp);
 
 let messages = {
-    sass:  '<span style="color: grey">Running:</span> $ gulp sass at ${paths.SCSS[0]}',
+    sass:  `<span style="color: grey">Running:</span> $ gulp sass at ${paths.SCSS[0]}`,
 };
 
 let paths = {
